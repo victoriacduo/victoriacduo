@@ -12,7 +12,7 @@
   <img align="center"= alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"= alt="Vic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"= alt="Vic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-	<img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://imgur.com/cbho9L2?width=676&height=676">
+	<img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/cbho9L2.png?width=676&height=676">
 </div>
  
 ##
