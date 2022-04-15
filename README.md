@@ -12,6 +12,7 @@
   <img align="center"= alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"= alt="Vic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"= alt="Vic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+	<img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src="https://imgur.com/cbho9L2?width=676&height=676">
 </div>
  
 ##
@@ -21,5 +22,6 @@
 	<a href="https://instagram.com/victoriacduo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://open.spotify.com/user/22vho74fw2wzrmcbetrpqfbfa?si=dacae01f821f4d3c" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/vict%C3%B3ria-d-032106179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	
   
 </div>
