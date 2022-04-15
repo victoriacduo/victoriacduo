@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/victoriacduo/victoriacduo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/victoriacduo/blob/output/github-contribution-grid-snake.svg)
