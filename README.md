@@ -1,4 +1,4 @@
-## Hello, I'm Victória Duó!
+## Hello!
 
 <div>
 	<a href="https://github.com/victoriacduo">
